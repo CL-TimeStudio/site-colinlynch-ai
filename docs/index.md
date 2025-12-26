@@ -1,4 +1,7 @@
-# AI Quickstart
+---
+layout: page
+title: AI Quickstart
+---
 
 ## Start here
 Follow [**Allie K. Miller** on LinkedIn](https://www.linkedin.com/in/alliekmiller) to keep up with AI news and releases. Allie offers information at the optimal altitude and volume. She shares example use cases, some of which may be use cases in her own professional and personal life. Allie’s information helps you stay informed of AI change without having to spend the large amount of time required to keep up with these things yourself.
