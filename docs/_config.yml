@@ -1,6 +1,6 @@
 title: Colin Lynch
-description: Personal hub for applied AI (Temvorn) and speculative time-based research (Temporal Sciences Foundation).
+description: AI start page.
 theme: minima
 markdown: kramdown
-url: "https://www.colinlynch.world"
+url: "https://www.colinlynch.ai"
 baseurl: ""   # leave empty when using a custom domain
