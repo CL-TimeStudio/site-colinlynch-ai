@@ -9,23 +9,21 @@ Follow [**Allie K. Miller** on LinkedIn](https://www.linkedin.com/in/alliekmille
 ---
 
 ## Learning
-Use [this learning companion PDF](https://learning-pathways.co.uk/wp-content/uploads/2025/02/AI-Learning-Companion.pdf). The boxes in the PDF are clickable with embedded links to the corresponding resource.
+➜ Go to [this -now retired but useful- learning companion PDF](https://www.linkedin.com/smart-links/AQEQo1CYD24Zsg/e0bb382f-f8ee-43a5-a5d5-7e796f25559f). The boxes in the PDF are clickable with embedded links to the corresponding resource.
 
-- **Columns (left → right):** executive → technical  
-- **Rows (top → bottom):** increasing depth of knowledge  
-
-You should go to the [main site](https://learning-pathways.co.uk/) to acquire a refreshed version of the PDF about every **2 to 3 months** (the PDF content is routinely updated).
+➜ Go to [Microsoft's AI Skills Navigator site](https://aiskillsnavigator.microsoft.com/?UTM_Source=CTA&UTM_Medium=AgentathonEMEA&UTM_Campaign=Agentathon_EMEA&UTM_Content=WWL) to learn about current AI learning options.
 
 ### Responsible AI first
 You must learn about impacts, implications, and risks associated with AI *prior* to using AI, learning about AI tools, model training, etc. The following LinkedIn (+ Microsoft) courses are an excellent starting point to a learning journey of responsible AI that must never end:
 
-- **[Ethics in the Age of Generative AI](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai?u=0)**
-- **[Career Essentials in Generative AI](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin?u=0)** (by Microsoft and LinkedIn)
+➜ **[Ethics in the Age of Generative AI](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai?u=0)**
+
+➜ **[Career Essentials in Generative AI](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin?u=0)** (by Microsoft and LinkedIn)
 
 ### Microsoft Learn
 Microsoft Learn is a valuable resource for learning AI among many other technical categories. Much of the content revolves around real-world applications and currently available tools versus theory and concepts:
 
-- [https://learn.microsoft.com/](https://learn.microsoft.com/)
+➜ Go to [https://learn.microsoft.com/](https://learn.microsoft.com/)
 
 ---
 
@@ -53,5 +51,6 @@ With that in mind, after practicing “AI-first searching,” start prompting AI
 ## Starter generative AI tool list
 *(By no means exhaustive.)*
 
-- **ChatGPT:** [https://openai.com/](https://openai.com/)
-- **Claude:** [https://www.anthropic.com/claude](https://www.anthropic.com/claude)
+➜ **ChatGPT:** [https://openai.com/](https://openai.com/)
+
+➜ **Claude:** [https://www.anthropic.com/claude](https://www.anthropic.com/claude)
