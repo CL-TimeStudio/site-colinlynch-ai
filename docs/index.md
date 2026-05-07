@@ -53,4 +53,4 @@ With that in mind, after practicing “AI-first searching,” start prompting AI
 
 ➜ **ChatGPT:** [https://openai.com/](https://openai.com/)
 
-➜ **Claude:** [https://www.anthropic.com/claude](https://www.anthropic.com/claude)
+➜ **Claude:** [https://anthropic.com/claude](https://www.anthropic.com/claude)
